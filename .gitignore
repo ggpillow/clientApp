@@ -1,0 +1,19 @@
+HELP.md
+# Maven build
+/target/
+
+# Env
+.env
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Logs
+logs/
+*.log
+
+# System
+.DS_Store
+Thumbs.db
